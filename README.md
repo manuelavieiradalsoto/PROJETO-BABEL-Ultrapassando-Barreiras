@@ -9,7 +9,13 @@
       <li>Escolha da idéia</li>
       <li>Consolidação da Metodologia</li>
       <li>Referêncial Teórico</li>
-      <li></li>
+      <li>Desenvolvimento do Script</li>
+      <li>Dificuldades encontradas</li>
+      <li>Resultados</li>
+      <li>Conclusão</li>
     </ul>
   </p>
+
+  <h2>Objetivos do Projeto</h2>
+  <p>Desenvolver esta aplicação fará com que eu aprofunde meus conhecimentos em práticas Web, auxiliando na lógica, sintaxe e introdução de cada novo elemento incluído, tornando esta uma experiência .</p>
 
