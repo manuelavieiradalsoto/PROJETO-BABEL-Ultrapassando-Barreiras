@@ -17,5 +17,5 @@
   </p>
 
   <h2>Objetivos do Projeto</h2>
-  <p>Desenvolver esta aplicação fará com que eu aprofunde meus conhecimentos em práticas Web, auxiliando na lógica, sintaxe e introdução de cada novo elemento incluído, tornando esta uma experiência .</p>
+  <p>Desenvolver esta aplicação fará com que eu aprofunde meus conhecimentos em práticas Web, auxiliando na lógica, sintaxe e introdução de cada novo elemento incluído, tornando esta uma experiência criativa, profissional e nova.</p>
 
